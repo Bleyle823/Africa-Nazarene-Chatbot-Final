@@ -3,7 +3,7 @@
 
 This project implements a Swahili sentiment analyzer using Support Vector Machines (SVM) for binary classification. The model was trained on a Swahili dataset containing tweets labeled as positive or negative.
 
-##Data Collection and Preprocessing
+## Data Collection and Preprocessing
 
 The dataset was collected from Twitter using the Tweepy API and was manually labeled as positive or negative. The data preprocessing included removing URLs, mentions, hashtags, and non-alphanumeric characters. The preprocessed tweets were tokenized, lemmatized, and stopwords were removed.
 
