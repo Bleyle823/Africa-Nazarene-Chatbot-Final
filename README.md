@@ -29,3 +29,4 @@ Run the notebook Swahili Sentiment Analyzer.ipynb and follow the instructions to
 
 ## Conclusion
 This project implements a Swahili sentiment analyzer using Support Vector Machines (SVM) for binary classification. The model achieved an accuracy of 85% on the test set. The Swahili Sentiment Analyzer was deployed using Gradio, an open-source web interface for machine learning models.
+![Screenshot (16)](https://user-images.githubusercontent.com/86532040/230874238-7674546a-afd7-4a7b-95f3-adf158142fac.png)
